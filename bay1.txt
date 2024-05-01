@@ -1,9 +1,12 @@
 AIM:
 To Install Git And Creating Repositories.
+
 DESCRIPTION:
 GIT: Git is a version control system that allows developers to track changes in their code.
+
 GITHUB: GitHub is a web-based hosting service for git repositories.
 REPOSITORY: Repository is the most basic element of GitHub. It’s a place where you can store your code,your files,and revision history.Repositories can have multiple collaborators and be either private or public.
+
 STEP BY STEP PROCEDURE:
 Double-click the executable you just downloaded, then click "Next" to move through the
 installation prompts.
@@ -16,6 +19,7 @@ From The Command Line And Also From 3rd-Party Software" is selected.
 Click through the remaining options, and wait for everything to finish downloading. The time
 requires to download everything will vary depending on what you chose to install. The default
 selection results in a download that is about 270 megabytes.
+
 MANAGING PRIVATE AND PUBLIC REPOSITORY
 MAKING A REPOSITORY PRIVATE:
 * GitHub will detach public forks of the public repository and put them into a new
